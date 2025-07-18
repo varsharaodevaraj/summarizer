@@ -1,6 +1,5 @@
 -> Website Summarizer (CLI)
-    Hey there! This is a simple Python command-line tool that lets you quickly get a summary of any website using OpenAI’s GPT. 
-    No more endless reading, just get the gist in seconds!
+     This is a simple Python command-line tool that lets you quickly get a summary of any website using OpenAI’s GPT. 
 
 -> What’s this?
     You give it a website URL, and it fetches the page, cleans out the clutter (like ads and scripts), 
